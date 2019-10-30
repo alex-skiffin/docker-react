@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Go to <code>src/App.js</code> and test to reload.
+          Go to <code>src/App.js</code> and test to reload. 
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          No Learn React
+          By Alex Skiffin
         </a>
       </header>
     </div>
